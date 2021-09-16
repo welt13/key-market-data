@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  text-align: right;
+}
+
+.col-1 {
+  text-align: left;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
